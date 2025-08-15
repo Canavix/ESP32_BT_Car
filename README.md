@@ -14,7 +14,7 @@ Proyecto para controlar una ESP32 de forma inalámbrica a través de una aplicac
 ## Guía de conexión
 Este es el diagrama de conexiones para el proyecto:
 
-![Diagrama de conexión del carrito de ESP32](CircuitoESP32.png)
+![Diagrama de conexión del carrito de ESP32](CircuitoESP2.png)
 
 Sigue los pasos a continuación para un montaje correcto:
 
